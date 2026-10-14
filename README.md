@@ -40,6 +40,7 @@ Platforms and developer tools for collecting, integrating, and analyzing wearabl
 - [Apple HealthKit](https://developer.apple.com/healthkit/) — Framework for integrating health and fitness data on iOS devices.
 - [CareClinic](https://careclinic.io/features/health-data-integrations/) — Personal health platform that imports Apple Health and Fitbit data and supports Apple Watch check-ins.
 - [Google Fit](https://developers.google.com/fit) — Platform for collecting and analyzing fitness and health data.
+- [Healify](https://www.healify.ai/) — AI health platform that syncs Apple Health data for nutrition, habits, and recovery insights.
 - [Samsung Health](https://developer.samsung.com/health) — Platform and APIs for integrating wearable health data.
 - [Human API](https://humanapi.co/) — Unified API for accessing health data from multiple sources.
 
